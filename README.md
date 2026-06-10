@@ -18,6 +18,7 @@ Here you can access my daily summaries and well-structured notes for each chapte
 
 * 📑 **[Day 1: Course Introduction & Linux Setup](day1.md)**
 * 📑 **[Day 2: Software Licenses & Open Source Philosophy](day_2.md)**
+* 📑 **[Day 3: Linux Philosophy and Concepts](day_3.md)**
 
 ---
 
@@ -26,4 +27,4 @@ Here you can access my daily summaries and well-structured notes for each chapte
 * **Lab Environment:** VirtualBox (Ubuntu & Debian VMs)
 * **Version Control:** GitHub
 
-*"Consistency is the key to mastering the Linux Command Line."* 💻
+*"Consistency is the key to mastering the Linux Command Line."* 💻بب
