@@ -20,6 +20,7 @@ Here you can access my daily summaries and well-structured notes for each chapte
 * 📑 **[Day 2: Software Licenses & Open Source Philosophy](day_2.md)**
 * 📑 **[Day 3: Linux Philosophy and Concepts](day_3.md)**
 * 📑 **[Day 4: Choosing a Desktop, Applications & Languages](day_4.md)**
+* 📑 **[Day 5: Hardware Management & Understanding](day_5.md)**
 
 ---
 
