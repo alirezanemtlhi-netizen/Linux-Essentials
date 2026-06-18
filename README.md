@@ -31,4 +31,4 @@ Here you can access my daily summaries and well-structured notes for each chapte
 * **Lab Environment:** VirtualBox (Ubuntu & Debian VMs)
 * **Version Control:** GitHub
 
-*"Consistency is the key to mastering the Linux Command Line."* 💻بب
+*"Consistency is the key to mastering the Linux Command Line."* 💻
