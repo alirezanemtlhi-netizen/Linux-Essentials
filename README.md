@@ -19,14 +19,18 @@ Here you can access my daily summaries and well-structured notes for each chapte
 📅 Daily Study Logs & Roadmap
 
 Here you can access my daily summaries and well-structured notes for each chapter:
-📑 [Day 1: Course Introduction & Linux Setup](day1.md)
-📑 [Day 2: Software Licenses & Open Source Philosophy](day_2.md)
-📑 [Day 3: Linux Philosophy and Concepts](day_3.md)
-📑 [Day 4: Choosing a Desktop, Applications & Languages](day_4.md)
-📑 [Day 5: Hardware Management & Understanding](day_5.md)
-📑 [Day 6: Working in the Command Line](day_6.md)
-📑 [Day 7: System Installation, PMS & Network Basics](day_7.md)
-📑 [Day 8: User Management, Ownership & Permissions](day_8.md)
+📅 Daily Study Logs & Roadmap
+
+Here you can access my daily summaries and well-structured notes for each chapter:
+
+* 📑 [Day 1: Course Introduction & Linux Setup](day1.md)
+* 📑 [Day 2: Software Licenses & Open Source Philosophy](day_2.md)
+* 📑 [Day 3: Linux Philosophy and Concepts](day_3.md)
+* 📑 [Day 4: Choosing a Desktop, Applications & Languages](day_4.md)
+* 📑 [Day 5: Hardware Management & Understanding](day_5.md)
+* 📑 [Day 6: Working in the Command Line](day_6.md)
+* 📑 [Day 7: System Installation, PMS & Network Basics](day_7.md)
+* 📑 [Day 8: User Management, Ownership & Permissions](day_8.md)
 
 ---
 
